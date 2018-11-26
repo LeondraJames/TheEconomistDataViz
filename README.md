@@ -7,3 +7,6 @@ This data visualization was inspired by a study published by The Economist in De
 
 
 Original plot from the article can be found here: https://www.economist.com/graphic-detail/2011/12/02/corrosive-corruption 
+
+
+This project was prompted from a Data Science and Machine Learning Bootcamp with R.
